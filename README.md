@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/api-car-rental-price-predictor.git```
+```$ git clone git@github.com:thimyxuan/streamlit-dashboard-car-rental-delay.git```
 
 ## Stack technique
 
