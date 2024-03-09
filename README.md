@@ -10,7 +10,7 @@
 - Plotly
 - Streamlit
 
-# Objet
+## Objet
 
 Ce tableau de bord Streamlit résume les informations de l'analyse réalisée en Partie 1 du projet Getaround.
 
@@ -19,7 +19,7 @@ Il est déployé à l'adresse suvante :
 
 Vous pouvez retrouver l'ensemble du projet Getaround dans [ce repository](https://github.com/thimyxuan/car-rental-delay-analysis).
 
-# Déploiement en local
+## Déploiement en local
 
 Créer l'image Docker :
 
@@ -29,7 +29,7 @@ Créer le container Docker :
 
 ```$ docker run -it -v "$(pwd):/app" -p 4000:4000 streamlit_env```
 
-# Déploiement avec Heroku
+## Déploiement avec Heroku
 
 Assurez-vous d'être connecté à vos comptes Docker et Heroku : 
 
