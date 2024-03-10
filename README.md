@@ -1,6 +1,6 @@
 ## Clone
 
-```$ git clone git@github.com:thimyxuan/streamlit-dashboard-car-rental-delay.git```
+```$ git clone https://github.com/thimyxuan/streamlit-dashboard-car-rental-delay.git```
 
 ## Stack technique
 
