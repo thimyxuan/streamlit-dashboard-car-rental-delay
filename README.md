@@ -14,7 +14,7 @@
 
 Ce tableau de bord Streamlit résume les informations de l'analyse réalisée en Partie 1 du projet Getaround.
 
-Il est déployé à l'adresse suvante : 
+Il est déployé à l'adresse suivante : 
 [`https://streamlit-getaround-e6d6a2216793.herokuapp.com/`](https://streamlit-getaround-e6d6a2216793.herokuapp.com/)
 
 Vous pouvez retrouver l'ensemble du projet Getaround dans [ce repository](https://github.com/thimyxuan/car-rental-delay-analysis).
